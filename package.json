@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "squarespace-server --auth https://chicory-plum-b4l3.squarespace.com/"
+  },
+  "devDependencies": {
+    "@squarespace/server": "^1.8.8"
+  }
+}
